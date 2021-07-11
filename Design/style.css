@@ -1,0 +1,13 @@
+.showcase h2 {
+  color: rgb(52, 152, 219, 1);
+  text-align: center;
+  text-transform: initial;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgb(41, 128, 185, 0.3);
+}
